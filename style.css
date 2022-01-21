@@ -1,0 +1,119 @@
+.banner-panda-bg{
+    background-color: #FEEAE9;
+}
+.images-slider{
+    margin-top: 110px;
+}
+.radius-panda{
+    border-radius: 15px;
+}
+.panda-shadow{
+    box-shadow: 0px 0px 7px 0px #efefef;
+}
+.btn-panda-customize{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: #ffffff;
+}
+.product-btn-panda-customize{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: poppins;
+}
+.product-btn-panda-customize:hover{
+    color: #ffffff;
+}
+.watch-backgr{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.bag-backgr{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+
+}
+
+.shoes-backgr{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+
+}
+#cate-title{
+    color: #ffffff;
+    margin-right: 10px;
+}
+.cate-images-size{
+    width: 100px;
+}
+.panga-sub-bg{
+    background-color: #FEEAE9;
+}
+input#email {
+    position: relative;
+    padding: 9px 8px;
+    left: -21px;
+    border-radius: 3px;
+    border: none;
+    width: 311px;
+}
+
+.anoter-btn-cus{
+    position: absolute;
+    left: 59%;
+    padding: 8px 14px;
+}
+.anoter-btn-cus:hover{
+    color: white;
+}
+
+input#email:focus {
+    outline: none;
+}
+.panda-bg-main{
+    background-color: #F4F4F4;
+}
+section#shoes {
+    padding-top: 65px;
+}
+
+.product-title{
+    font-size: 36px;
+    margin-bottom: 24px;
+}
+.panda-text {
+    font-size: 16px;
+}
+div#navbarSupportedContent ul li a {
+    color: #707070;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.carousel-item h1 {
+    color: #1F1F1F;
+    font-size : 56px;
+    font-weight : 700
+}
+.card-title-panda {
+    font-size: 26px;
+    margin-top: 19px;
+    font-weight: 700;
+    margin-bottom: 26px;
+}
+p.seeall {
+    font-size: 20px;
+    color: #FF9D00;
+    font-weight: 600;
+}
+section#backpack {
+    padding-bottom: 55px;
+}
+p.dollar {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+span.text-center h2 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+span.text-center p {
+    font-size: 15px;
+}
